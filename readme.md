@@ -7,6 +7,7 @@
 - laravel
 - HTML
 ## Авторы 
+- Anastasia Shikovets -branch Ana 
 ## Инструкция по установке
 - cd domains
 - get clone https://github.com/Ananas0906/shop.git

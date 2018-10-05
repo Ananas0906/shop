@@ -8,6 +8,7 @@
 - HTML
 ## Авторы 
 - Anastasia Shikovets -branch Ana 
+- my master02
 ## Инструкция по установке
 - cd domains
 - get clone https://github.com/Ananas0906/shop.git

@@ -23,7 +23,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="/">Start Bootstrap</a>
+        <a class="navbar-brand" href="/">HOMEPAGE</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -80,7 +80,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">Shop Name</h1>
+          <h1 class="my-4">Sport-Time</h1>
           <div class="list-group">
 		  @foreach ($v_categories as $category)
 		  <a href ="{{asset ('category/'.$category->id)}}"
@@ -108,7 +108,7 @@
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+        <p class="m-0 text-center text-white">Belarus,BSUIR &copy; Sport-time Inc.2019</p>
       </div>
       <!-- /.container -->
     </footer>
